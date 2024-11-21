@@ -1,7 +1,6 @@
 <template>
     <header>
         <h1>Calculadora aritmética</h1>
-        
     </header>
 </template>
 
